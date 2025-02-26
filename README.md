@@ -38,7 +38,7 @@ Feel free to contribute by forking the repo and issuing a new PR.
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the Unlicensed
+This project is Unlicensed
 
 <h2>💖Like my work?</h2>
 
